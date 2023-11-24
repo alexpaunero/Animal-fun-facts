@@ -14,7 +14,7 @@ const root = createRoot(container);
 const title = '';
 
 // Task 7
-const background = <img className='background' alt='ocean' src='/images/ocean.jpg'/>
+const background = <img className='background' alt='ocean' src='https://d448025c2941484e94ee8968594af8f1.cc-propeller.cloud/images/ocean.jpg'/>
 
 // Task 11
 const displayFact = (e) => {
